@@ -96,7 +96,7 @@ const Footer = () => {
                 <div>
                   <h3 className="text-softGold uppercase">Products</h3>
                   <Link
-                    to="/anyara"
+                    to="/sign"
                     className="block mt-2 text-sm text-yellow-100 hover:underline"
                   >
                     Lorem

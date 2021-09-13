@@ -56,7 +56,7 @@ export const navProducts = [
     name: "Lorem",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa",
-    href: "/lorem",
+    href: "/sign",
     icon: ViewGridIcon,
   },
   {

@@ -211,7 +211,7 @@ const Lorem = () => {
         {/* Start Header */}
         <header className="bg-slateLight shadow flex items-center justify-around py-7">
           <div className="">
-            <h1 className="text-3xl font-bold text-softGoldDark">Anyara</h1>
+            <h1 className="text-3xl font-bold text-softGoldDark">Lorem</h1>
           </div>
           <div className="relative">
             <span className="absolute inset-y-0 left-0 flex items-center pl-3">
