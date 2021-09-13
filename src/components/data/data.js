@@ -28,52 +28,52 @@ export const dataMap = [
 export const itemProducts = [
   {
     id: 1,
-    title: "Anyara",
+    title: "Lorem",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium odio similique, blanditiis modi explicabo incidunt ducimus eos totam! Porro in, autem repellat quidem magnam unde. Placeat iusto modi id voluptas",
     page: "/sign",
   },
   {
     id: 2,
-    title: "Mariana",
+    title: "Lorem",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium odio similique, blanditiis modi explicabo incidunt ducimus eos totam! Porro in, autem repellat quidem magnam unde. Placeat iusto modi id voluptas",
     page: "/",
   },
   {
     id: 3,
-    title: "Laniakea",
+    title: "Lorem",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium odio similique, blanditiis modi explicabo incidunt ducimus eos totam! Porro in, autem repellat quidem magnam unde. Placeat iusto modi id voluptas",
     page: "/",
   },
   {
     id: 4,
-    title: "ADA",
+    title: "Lorem",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium odio similique, blanditiis modi explicabo incidunt ducimus eos totam! Porro in, autem repellat quidem magnam unde. Placeat iusto modi id voluptas",
     page: "/",
   },
 ];
 export const navProducts = [
   {
-    name: "Anyara",
+    name: "Lorem",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa",
-    href: "/anyara",
+    href: "/lorem",
     icon: ViewGridIcon,
   },
   {
-    name: "Mariana",
+    name: "Lorem",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, in!",
     href: "/",
     icon: ViewGridIcon,
   },
   {
-    name: "Laniakea",
+    name: "Lorem",
     description: "Lorem ipsum dolor sit amet consectetur ",
     href: "/",
     icon: ViewGridIcon,
   },
   {
-    name: "ADA",
+    name: "Lorem",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, in!",
     href: "/",

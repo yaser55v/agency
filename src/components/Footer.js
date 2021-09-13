@@ -1,5 +1,5 @@
-import React from "react"
-import { Link } from "react-router-dom"
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="px-6">
                 <div>
                   <Link to="/">
-                    <h2 className="font-bold text-4xl text-softGold ">NXVC</h2>
+                    <h2 className="font-bold text-4xl text-softGold ">LOREM</h2>
                   </Link>
                 </div>
                 <p className="max-w-md mt-2 text-yellow-100">
@@ -99,25 +99,25 @@ const Footer = () => {
                     to="/anyara"
                     className="block mt-2 text-sm text-yellow-100 hover:underline"
                   >
-                    Anyara
+                    Lorem
                   </Link>
                   <a
                     href="/"
                     className="block mt-2 text-sm text-yellow-100 hover:underline"
                   >
-                    Mariana
+                    Lorem
                   </a>
                   <a
                     href="/"
                     className="block mt-2 text-sm text-yellow-100 hover:underline"
                   >
-                    Laniakea
+                    Lorem
                   </a>
                   <a
                     href="/"
                     className="block mt-2 text-sm text-yellow-100 hover:underline"
                   >
-                    ADA
+                    Lorem
                   </a>
                 </div>
                 <div>
@@ -135,14 +135,13 @@ const Footer = () => {
           <hr className="h-px my-6 bg-yellow-800 border-none" />
           <div>
             <p className="text-center text-softGold">
-               NXVC © {new Date().getFullYear()} llc proprietary information all
-              right reserved
+              LOREM © {new Date().getFullYear()} all right reserved
             </p>
           </div>
         </div>
       </footer>
     </>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

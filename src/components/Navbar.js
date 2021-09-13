@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center  py-6 lg:justify-start lg:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <Link to="/">
-              <h2 className="font-bold text-4xl ">NXVC</h2>
+              <h2 className="font-bold text-4xl ">LOREM</h2>
             </Link>
           </div>
           <div className="-mr-2 -my-2 lg:hidden">

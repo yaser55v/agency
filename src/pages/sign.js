@@ -79,7 +79,7 @@ const SignIn = () => {
 
             <div>
               <Link
-                to="/anyara"
+                to="/lorem"
                 type="submit"
                 className="group relative w-full flex justify-center py-4 px-4 border border-transparent text-sm font-bold rounded-md text-slate bg-softGold opacity-90 hover:opacity-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500"
               >

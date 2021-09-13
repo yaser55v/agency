@@ -13,7 +13,7 @@ const Contact = () => {
                   Current coverage
                 </h1>
                 <ul className="text-softGold list-disc">
-                  <p className="text-2xl my-4">International to city level</p>
+                  <p className="text-2xl my-4">Lorem ipsum dolor.</p>
                   <li className="list-inside hover:underline">united states</li>
                   <li className="list-inside hover:underline">canada</li>
                   <p className="text-2xl my-4">National</p>

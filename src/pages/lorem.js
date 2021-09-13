@@ -10,14 +10,14 @@ import Sidebar from "../components/Sidebar";
 import { MailIcon, SearchIcon } from "@heroicons/react/solid";
 import { CalendarComponent } from "@syncfusion/ej2-react-calendars";
 
-const navigation = ["Anyara", "Mariana", "Laniakea", "ADA"];
+const navigation = ["Lorem", "Lorem", "Lorem", "Lorem"];
 const profile = ["Your Profile", "Settings", "Sign out"];
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
-const Anyara = () => {
+const Lorem = () => {
   const initialState = JSON.parse(localStorage.getItem("todos")) || [];
   const [input, setInput] = useState("");
   const [todos, setTodos] = useState(initialState);
@@ -38,7 +38,7 @@ const Anyara = () => {
                   <div className="flex items-center">
                     <div className="flex-shrink-0">
                       <Link to="/">
-                        <h2 className="font-bold text-4xl ">NXVC</h2>
+                        <h2 className="font-bold text-4xl ">LOREM</h2>
                       </Link>
                     </div>
                     <div className="hidden md:block">
@@ -284,4 +284,4 @@ const Anyara = () => {
   );
 };
 
-export default Anyara;
+export default Lorem;
